@@ -35,20 +35,52 @@
 # else:
 #     print(False) 
 
-age_0 = 22
-age_1 = 18
+# age_0 = 22
+# age_1 = 18
 
-if age_0 >= 21 and age_1 >= 21:
+# if age_0 >= 21 and age_1 >= 21:
+#     print(True)
+
+# else:
+#     print(False)
+
+# age_1 = 22
+
+# if age_0 >= 21 and age_1 >= 21:
+#     print(True)
+
+# else:
+#     print(False)
+
+# age_0 = 22
+# age_1 = 18
+
+# if age_0 >= 21 or age_1 >= 21:
+#     print(True)
+
+# else:
+#     print(False)
+
+# age_0 = 18
+
+# if age_0 >= 21 or age_1 >= 21:
+#     print(True)
+
+# else:
+#     print(False)
+
+requested_toppings = ['mushrooms', 'onions', 'pineapples']
+
+if 'mushrooms' in requested_toppings:
     print(True)
 
 else:
     print(False)
 
-age_1 = 22
-
-if age_0 >= 21 and age_1 >= 21:
+if 'pepperoni' in requested_toppings:
     print(True)
 
 else:
     print(False)
+
 
