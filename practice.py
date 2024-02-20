@@ -78,7 +78,16 @@
 # del cookies[2]
 # print(cookies)
 
-cookies = ['Chocolate Chip', 'Peanut Butter', 'Sugar', 'Snikerdoodle', 'Oatmeal Rasin']
+# cookies = ['Chocolate Chip', 'Peanut Butter', 'Sugar', 'Snikerdoodle', 'Oatmeal Rasin']
 
-least_favorite = cookies.pop(2)
-print(f"My least favorite cookie is {least_favorite.title()}")
+# least_favorite = cookies.pop(2)
+# print(f"My least favorite cookie is {least_favorite.title()}")
+
+
+first_name = "laChaznie"
+middle_name = "Me'kel"
+last_name = "Moore"
+
+my_age = 35
+
+print(f"my name is {first_name} {middle_name} {last_name}. I am {my_age} years old!")
